@@ -7,9 +7,9 @@ The program will give you a list of fumens for each number of solutions up to an
 
 ## Installation
 
-You can grab the binaries from the release, in which case you need only put the unzipped folder into your sfinder folder. You will need to have a vaguely recent (2015+) [C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed. 
+You can grab the lazy-sfinder zip folder from the [release](https://github.com/michael-levy/lazy-sfinder/releases/latest), in which case you need only put the unzipped folder into your sfinder folder. You will need to have a vaguely recent (2015+) [C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed. 
 
-This will only work on Windows. But sfinder also only works for Windows, so it's unclear what you're doing here if you're not on windows. 
+This will only work on Windows. If you're not on Windows just yell at me and I'll set up some more platforms.
 
 If you're keen, you can build the source code yourself with Cargo.
 
