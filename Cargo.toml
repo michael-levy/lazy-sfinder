@@ -1,0 +1,13 @@
+[package]
+name = "lazy-sfinder"
+authors = ["altocatt"]
+version = "0.1.1"
+license = "MIT"
+edition = "2021"
+readme = "README.md"
+description = "A command line tool to find lower numbers of minimals based on sfinder output"
+categories = ["command-line-utilities"]
+
+[dependencies]
+csv = "1.1"
+clap = { version = "4.0.18", features = ["derive"] }
